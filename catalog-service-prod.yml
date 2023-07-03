@@ -1,2 +1,2 @@
 polar:
-  greetings: "Welcome to the catalog from the prod config server"
+  greetings: "Welcome to the catalog from a fresh config server"
